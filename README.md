@@ -8,7 +8,7 @@ An undergraduate of Bachelor of Technology in Computer Science and Engineering. 
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [rtandon3102@gmail.com](mailto:rtandon3102@gmail.com)
-* 🧠  I'm learning Python and Javascript
+* 🧠  I'm learning React and Javascript
 * 🤝  I'm open to collaborating on Front-end technologies based projects
 
 ### Skills
