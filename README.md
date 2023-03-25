@@ -1,10 +1,10 @@
 Hi 👋 My name is Radhika Tandon
 ===============================
 
-Front-End Web Developer in process
+Front-End Web Developer
 ----------------------------------
 
-An undergraduate of Bachelor of Technology in Computer Science and Engineering. Art enthusiast and always eager to learn new skills , techniques and gain experiences. I possess knowledge of Front-end Web Development with basic knowledge of dealing with databases using PHP, JSP and SQL. Languages learnt : C , Python , Java
+An undergraduate of Bachelor of Technology in Computer Science and Engineering. Art enthusiast and always eager to learn new skills , techniques and gain experiences. I possess knowledge of Front-end Web Development with basic knowledge of dealing with databases using PHP, JSP and SQL. Languages learnt : C ,C++, Python , Java(Core).
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [rtandon3102@gmail.com](mailto:rtandon3102@gmail.com)
