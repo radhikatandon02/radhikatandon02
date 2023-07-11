@@ -4,12 +4,17 @@ Hi 👋 My name is Radhika Tandon
 Front-End Web Developer
 ----------------------------------
 
-An undergraduate of Bachelor of Technology in Computer Science and Engineering. Art enthusiast and always eager to learn new skills , techniques and gain experiences. I possess knowledge of Front-end Web Development with basic knowledge of dealing with databases using PHP, JSP and SQL. Languages learnt : C ,C++, Python , Java(Core).
+An undergraduate of Bachelor of Technology in Computer Science and Engineering.
+Art enthusiast and always eager to learn new skills , techniques and gain experiences.
+I possess knowledge of Front-end Web Development with knowledge of dealing with databases using PHP and SQL and I am a Graphic Designing fanatic.
+Working on Canva is fun but Figma is my thing.
+My technical skills include :
+C , Python , Java, C++, Bootstrap, HTML, CSS, Javascript, Git, GitHub, PHP, JSP, Tailwind CSS, API
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [rtandon3102@gmail.com](mailto:rtandon3102@gmail.com)
-* 🧠  I'm learning React and Javascript
-* 🤝  I'm open to collaborating on Front-end technologies based projects
+* 🧠  I'm learning Node JS and UX/UI Designing
+* 🤝  I'm open to collaborating on Front-End Technologies Based Projects
 
 ### Skills
 
