@@ -36,7 +36,7 @@ C , Python , Java, C++, Bootstrap, HTML, CSS, Javascript, Git, GitHub, PHP, JSP,
 <p align="left"> 
   <a href="https://discord.com/users/radhika#0808" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> 
   <a href="https://www.facebook.com/Radhika-Tandon" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> 
-  <a href="https://www.github.com/radhikatandon02" target="_blank" rel="noreferrer"><img src="https://banner2.cleanpng.com/20180326/gxq/kisspng-github-computer-icons-icon-design-github-5ab8a31e334e73.4114704215220498222102.jpg" width="32" height="32" /></a>
+  <a href="https://www.github.com/radhikatandon02" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
   <a href="http://www.instagram.com/radhikaa.07" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> 
   <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/radhika-tandon-b12549213" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
 </p>
