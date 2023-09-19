@@ -6,10 +6,10 @@ Front-End Web Developer
 
 An undergraduate of Bachelor of Technology in Computer Science and Engineering.
 Art enthusiast and always eager to learn new skills , techniques and gain experiences.
-I possess knowledge of Front-end Web Development with knowledge of dealing with databases using PHP and SQL and I am a Graphic Designing fanatic.
+I possess knowledge of Full Stack Web Development and I am a Graphic Designing fanatic.
 Working on Canva is fun but Figma is my thing.
 My technical skills include :
-C , Python , Java, C++, Bootstrap, HTML, CSS, Javascript, Git, GitHub, PHP, JSP, Tailwind CSS, API
+C , Python , Java, C++, Bootstrap, HTML, CSS, JavaScript, Git, GitHub, PHP, JSP, Tailwind CSS, API, Node JS
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [rtandon3102@gmail.com](mailto:rtandon3102@gmail.com)
