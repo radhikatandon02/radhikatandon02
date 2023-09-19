@@ -13,7 +13,7 @@ C , Python , Java, C++, Bootstrap, HTML, CSS, JavaScript, Git, GitHub, PHP, JSP,
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [rtandon3102@gmail.com](mailto:rtandon3102@gmail.com)
-* 🧠  I'm learning Node JS and UX/UI Designing
+* 🧠  I'm learning React and PHP
 * 🤝  I'm open to collaborating on Front-End Technologies Based Projects
 
 ### Skills
