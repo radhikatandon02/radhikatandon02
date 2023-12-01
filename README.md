@@ -9,11 +9,11 @@ Art enthusiast and always eager to learn new skills , techniques and gain experi
 I possess knowledge of Full Stack Web Development and I am a Graphic Designing fanatic.
 Working on Canva is fun but Figma is my thing.
 My technical skills include :
-C , Python , Java, C++, Bootstrap, HTML, CSS, JavaScript, Git, GitHub, PHP, JSP, Tailwind CSS, API, Node JS
+C , Python , Java, C++, Bootstrap, HTML, CSS, JavaScript, Git, GitHub, PHP, JSP, Tailwind CSS, API, Node JS, React JS
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [rtandon3102@gmail.com](mailto:rtandon3102@gmail.com)
-* 🧠  I'm learning React and PHP
+* 🧠  I'm learning React
 * 🤝  I'm open to collaborating on Front-End Technologies Based Projects
 
 ### Skills
