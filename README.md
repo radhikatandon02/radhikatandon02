@@ -7,7 +7,7 @@ Front-End Web Developer
 An undergraduate of Bachelor of Technology in Computer Science and Engineering.
 Art enthusiast and always eager to learn new skills , techniques and gain experiences.
 I possess knowledge of Full Stack Web Development and I am a Graphic Designing fanatic.
-Working on Canva is fun but Figma is my thing.
+Working on Canva is fun but Figma is my thing. <br>
 My technical skills include : <br>
 C , Python , Java, C++, Bootstrap, HTML, CSS, JavaScript, Git, GitHub, PHP, JSP, Tailwind CSS, API, Node JS, React JS
 
