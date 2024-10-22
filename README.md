@@ -32,8 +32,8 @@ Java, C++, Bootstrap, Tailwind CSS, HTML, CSS, JavaScript, PHP, Node JS, React J
 
 ### Socials
 
-  <a href="https://x.com/radhiikafr" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
-  <a href="https://www.instagram.com/mysideexplore" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> 
+  <a href="https://x.com/radhiikafr" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" style="color:white"/></a> &nbsp;
+  <a href="https://www.instagram.com/mysideexplore" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> &nbsp;
   <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/radhika-tandon-b12549213" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
 </p>
 
