@@ -1,5 +1,4 @@
 ## Hi, I'm Radhika Tandon 👋
-### A Tech Enthusiast & Creative Mindset 💻🎨
 
 I'm a **Bachelor of Technology** graduate in **Computer Science and Engineering**, blending my love for **Full Stack Web Development** with a passion for **Graphic Design**. Creating beautiful web interfaces and designing graphics on **Figma** is my sweet spot, while **Canva** adds fun to the mix!
 
