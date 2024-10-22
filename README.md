@@ -32,9 +32,7 @@ Java, C++, Bootstrap, Tailwind CSS, HTML, CSS, JavaScript, PHP, Node JS, React J
 
 ### Socials
 
-<p align="left"> 
-  <a href="https://discord.com/users/radhika#0808" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> 
-  <a href="https://www.github.com/radhikatandon02" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
+  <a href="https://x.com/radhiikafr" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
   <a href="https://www.instagram.com/mysideexplore" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> 
   <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/radhika-tandon-b12549213" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
 </p>
