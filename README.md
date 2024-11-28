@@ -1,12 +1,12 @@
 ## Hi, I'm Radhika Tandon 👋
 
-I'm a **Bachelor of Technology** graduate in **Computer Science and Engineering**, blending my love for **Full Stack Web Development** with a passion for **Graphic Design**. Creating beautiful web interfaces and designing graphics on **Figma** is my sweet spot, while **Canva** adds fun to the mix!
+I'm a Graduate in **Bachelor of Technology** with my specialisation in **Computer Science and Engineering**, blending my love for **Full Stack Web Development** with a passion for **Graphic Design**. Creating beautiful web interfaces and designing graphics.
 
 ### 💡 About Me:
 - 🌍 Based in **India**
 - 🌱 Always learning, exploring new skills, and embracing challenges
 - 🎨 Art enthusiast with a flair for creativity in both code and design
-- 💻 Knowledgeable in **Java, C++, Bootstrap, Tailwind CSS, HTML, CSS, JavaScript, PHP, Node JS, React JS**
+- 💻 Knowledgeable in **Java, C++, Bootstrap, Tailwind CSS, HTML, CSS, JavaScript, PHP, Node JS, React JS, Git**
 - 🎯 Open to collaborations on **Front-End Technologies Based Projects**
 - 📧 Contact me at: [rtandon3102@gmail.com](mailto:rtandon3102@gmail.com)
 
