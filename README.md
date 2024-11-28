@@ -1,6 +1,6 @@
 ## Hi, I'm Radhika Tandon 👋
 
-I'm a Graduate in **Bachelor of Technology** with my specialisation in **Computer Science and Engineering**, blending my love for **Full Stack Web Development** with a passion for **Graphic Design**. Creating beautiful web interfaces and designing graphics.
+I'm a Graduate in **Bachelor of Technology** with my specialisation in **Computer Science and Engineering**, blending my love for **Full Stack Web Development** with a passion for **Graphic Design**, creating beautiful web interfaces and designing graphics.
 
 ### 💡 About Me:
 - 🌍 Based in **India**
